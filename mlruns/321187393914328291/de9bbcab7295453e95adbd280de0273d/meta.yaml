@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jvmm/Projetos/Data%20Scientist/mlruns/321187393914328291/de9bbcab7295453e95adbd280de0273d/artifacts
+end_time: 1688331440165
+entry_point_name: ''
+experiment_id: '321187393914328291'
+lifecycle_stage: active
+run_id: de9bbcab7295453e95adbd280de0273d
+run_name: Gradient Boosting Classifier
+run_uuid: de9bbcab7295453e95adbd280de0273d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688331439814
+status: 3
+tags: []
+user_id: jvmm

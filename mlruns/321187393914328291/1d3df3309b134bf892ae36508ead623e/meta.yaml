@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jvmm/Projetos/Data%20Scientist/mlruns/321187393914328291/1d3df3309b134bf892ae36508ead623e/artifacts
+end_time: 1688331443403
+entry_point_name: ''
+experiment_id: '321187393914328291'
+lifecycle_stage: active
+run_id: 1d3df3309b134bf892ae36508ead623e
+run_name: Dummy Classifier
+run_uuid: 1d3df3309b134bf892ae36508ead623e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688331443321
+status: 3
+tags: []
+user_id: jvmm

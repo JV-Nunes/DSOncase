@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jvmm/Projetos/Data%20Scientist/mlruns/321187393914328291/427e1c99751043e5a55fed279d45eadc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '321187393914328291'
+lifecycle_stage: active
+run_id: 427e1c99751043e5a55fed279d45eadc
+run_name: Session Initialized 954f
+run_uuid: 427e1c99751043e5a55fed279d45eadc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688330741167
+status: 1
+tags: []
+user_id: jvmm

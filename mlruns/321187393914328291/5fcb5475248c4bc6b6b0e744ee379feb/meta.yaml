@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jvmm/Projetos/Data%20Scientist/mlruns/321187393914328291/5fcb5475248c4bc6b6b0e744ee379feb/artifacts
+end_time: 1688330827018
+entry_point_name: ''
+experiment_id: '321187393914328291'
+lifecycle_stage: active
+run_id: 5fcb5475248c4bc6b6b0e744ee379feb
+run_name: Random Forest Classifier
+run_uuid: 5fcb5475248c4bc6b6b0e744ee379feb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688330826973
+status: 3
+tags: []
+user_id: jvmm

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jvmm/Projetos/Data%20Scientist/mlruns/321187393914328291/7f424e2082d34f7ebf3a6b052236a9d0/artifacts
+end_time: 1688331442533
+entry_point_name: ''
+experiment_id: '321187393914328291'
+lifecycle_stage: active
+run_id: 7f424e2082d34f7ebf3a6b052236a9d0
+run_name: Linear Discriminant Analysis
+run_uuid: 7f424e2082d34f7ebf3a6b052236a9d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688331442448
+status: 3
+tags: []
+user_id: jvmm

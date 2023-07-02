@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jvmm/Projetos/Data%20Scientist/mlruns/321187393914328291/73cbf8900322450a9abce2e23a65d543/artifacts
+end_time: 1688331441737
+entry_point_name: ''
+experiment_id: '321187393914328291'
+lifecycle_stage: active
+run_id: 73cbf8900322450a9abce2e23a65d543
+run_name: Quadratic Discriminant Analysis
+run_uuid: 73cbf8900322450a9abce2e23a65d543
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688331441685
+status: 3
+tags: []
+user_id: jvmm
